@@ -5,3 +5,4 @@ feature 1 added
 feature 2 added
 fixing bugs
 feature 3 added
+fixing bugs 2
